@@ -1,4 +1,1 @@
-class HelloWord{
-	public static void main()
-	
-}
+的萨芬打撒撒旦实打实
